@@ -1,1 +1,1 @@
-# django-line-tutorial
+# doitsu-linebot
