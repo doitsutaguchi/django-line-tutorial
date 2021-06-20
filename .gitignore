@@ -1,8 +1,10 @@
 myvenv
 db.sqlite3
 .vscode
-_pycache_
-*._pycache_
+__pycache__
+*.pyc
 .DS_Store
 .env
 local_settings.py
+ngrok
+command.txt
